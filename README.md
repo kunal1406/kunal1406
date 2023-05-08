@@ -2,8 +2,8 @@
 
 I'm a passionate software developer with experience in various technologies. Here's a quick overview of my skills and projects.
 
-## Skills
-
+<details>
+<summary>🛠️ Skills</summary>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -13,20 +13,20 @@ I'm a passionate software developer with experience in various technologies. Her
 <p align="center">
   Python &nbsp; &nbsp; &nbsp; JavaScript &nbsp; &nbsp; &nbsp; React &nbsp; &nbsp; &nbsp; Node.js
 </p>
+</details>
 
-## Projects
-
-Here are some of my projects. Click on the project name to view the repo.
+<details>
+<summary>📚 Projects</summary>
 
 1. [Project 1](https://github.com/kunal1406/project-1) - A short description of Project 1.
 2. [Project 2](https://github.com/kunal1406/project-2) - A short description of Project 2.
 3. [Project 3](https://github.com/kunal1406/project-3) - A short description of Project 3.
 
+</details>
+
 ## Connect with me
 
-You can reach me at:
-
-- Email: [kunal@email.com](mailto:kunal@email.com)
-- LinkedIn: [Kunal](https://www.linkedin.com/in/kunal)
+[![LinkedIn Badge](https://img.shields.io/badge/-Kunal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal)](https://www.linkedin.com/in/kunal)
+[![Twitter Badge](https://img.shields.io/badge/-Kunal-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/Kunal)](https://twitter.com/Kunal)
 
 Thanks for stopping by!
