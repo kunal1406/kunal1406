@@ -27,6 +27,5 @@ I'm a passionate software developer with experience in various technologies. Her
 ## Connect with me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Kunal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalmehta1406/)](https://www.linkedin.com/in/kunalmehta1406/)
-[![Twitter Badge](https://img.shields.io/badge/-Kunal-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/Kunal)](https://twitter.com/Kunal)
 
 Thanks for stopping by!
