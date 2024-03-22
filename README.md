@@ -1,6 +1,6 @@
 # Hi there, I'm Kunal! 👋
 
-I'm a passionate Data Scientits with experience in various technologies. Here's a quick overview of my skills and projects.
+I'm a passionate Data Scientist with experience in various technologies. Here's a quick overview of my skills and projects.
 
 <details>
 <summary>🛠️ Skills</summary>
