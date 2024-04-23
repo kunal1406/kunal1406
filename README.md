@@ -1,31 +1,94 @@
-# Hi there, I'm Kunal! 👋
+<h1 align="center">Hi 👋, I'm Kunal Mehta</h1>
+<h3 align="center">A passionate Data Scientist</h3>
 
-I'm a passionate Data Scientist with experience in various technologies. Here's a quick overview of my skills and projects.
+- 🔭 My latest projects: **[NER- Named Entity Recognition](https://github.com/kunal1406/Named-Entity-Recognition), [End to End Machine Learning Project with MLflow](https://github.com/kunal1406/end-to-end-machine-learning-project-MLflow)**
 
-<details>
-<summary>🛠️ Skills</summary>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+- 🌱 I’m currently learning **Generative AI, LLMOps**
+
+- 💪 Currently Working at [**University of Texas at Arlington**](UTA)
+
+- 🤝 You can find me on LinkedIn [here](https://www.linkedin.com/in/kunalmehta1406/)
+
+- 💬 Ask me about **Machine Learning, Statistics, MLOps, NLP, LLMs, Deep Learning, Data Science**
+
+- 📫 You can reach out to me at **mehtakunalg@gmail.com**
+
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1b_Ilj9oCNEsr8jNkQo2u6SBiIsysTGKy/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vishwasaitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishwasaitech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishwasgowda217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwasgowda217" height="30" width="40" /></a>
 </p>
-<p align="center">
-  Python &nbsp; &nbsp; &nbsp; JavaScript &nbsp; &nbsp; &nbsp; React &nbsp; &nbsp; &nbsp; Node.js
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <!-- AWS (Amazon Web Services) -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <!-- Langchain -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.freecodecamp.org/news/content/images/size/w1600/2023/05/Screenshot-2023-05-29-at-5.40.38-PM.png" alt="langchain" width="160" height="40"/>
+  </a>
+
+<!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="70" height="40"/>
+  </a>
+
+<!-- fastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="40"/>
+  </a>
 </p>
-</details>
 
-<details>
-<summary>📚 Projects</summary>
 
-1. [Project 1](https://github.com/kunal1406/project-1) - A short description of Project 1.
-2. [Project 2](https://github.com/kunal1406/project-2) - A short description of Project 2.
-3. [Project 3](https://github.com/kunal1406/project-3) - A short description of Project 3.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal1406&show_icons=true&locale=en&layout=compact" alt="kunal1406" /></p>
 
-</details>
-
-## Connect with me
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Kunal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalmehta1406/)](https://www.linkedin.com/in/kunalmehta1406/)
-
-Thanks for stopping by!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal1406&" alt="kunal1406" /></p>
