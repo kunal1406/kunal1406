@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Mehta</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 My latest projects: **[NER- Named Entity Recognition](https://github.com/kunal1406/Named-Entity-Recognition), [End to End Machine Learning Project with MLflow](https://github.com/kunal1406/end-to-end-machine-learning-project-MLflow)**
+- 🔭 My latest projects: **[Auto Insurance Risk Profiling](https://github.com/kunal1406/Auto-Insurance-Risk-Profiling), [NER- Named Entity Recognition](https://github.com/kunal1406/Named-Entity-Recognition)**
 
 - 🌱 I’m currently learning **Generative AI, LLMOps**
 
