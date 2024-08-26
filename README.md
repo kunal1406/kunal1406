@@ -13,7 +13,6 @@
 
 - 📫 You can reach out to me at **mehtakunalg@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1b_Ilj9oCNEsr8jNkQo2u6SBiIsysTGKy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
