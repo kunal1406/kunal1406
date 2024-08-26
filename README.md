@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Generative AI, LLMOps**
 
-- 💪 Currently Working at [**University of Texas at Arlington**](UTA)
-
 - 🤝 You can find me on LinkedIn [here](https://www.linkedin.com/in/kunalmehta1406/)
 
 - 💬 Ask me about **Machine Learning, Statistics, MLOps, NLP, LLMs, Deep Learning, Data Science**
