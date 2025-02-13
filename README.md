@@ -5,17 +5,10 @@
 
 - 🌱 I’m currently learning **Generative AI, LLMOps**
 
-- 🤝 You can find me on LinkedIn [here](https://www.linkedin.com/in/kunalmehta1406/)
-
 - 💬 Ask me about **Machine Learning, Statistics, MLOps, NLP, LLMs, Deep Learning, Data Science**
 
 - 📫 You can reach out to me at **mehtakunalg@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishwasgowda217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwasgowda217" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
